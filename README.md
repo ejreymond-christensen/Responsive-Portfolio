@@ -1,2 +1,2 @@
-# ut-Responsive-Portfolio
-Week 2 - Responsive Portfolio
+# Responsive-Portfolio
+Responsive Portfolio from previous portfolio site
